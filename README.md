@@ -2,6 +2,7 @@
 
 Emulação do gerenciamento de estoque de uma loja com foco em testes unitários e debugging.
 
+**[Relatório Aqui](./docs/relatorio.pdf)**
 ### Para Compilar:
 Do diretório principal, usando o CMake:
 ```bash
