@@ -1,6 +1,6 @@
 # Estudo Dirigido Sobre Testes e Depuração - Boas Práticas de Programação (DIM0501)
 
-Aluno: Lucas Apolonio de Amorim
+Emulação do gerenciamento de estoque de uma loja com foco em testes unitários e debugging.
 
 ### Para Compilar:
 Do diretório principal, usando o CMake:
@@ -17,4 +17,9 @@ ctest
 ou 
 ```bash
 ctest --test-dir build
+```
+
+Para executar o exemplo em main.cpp:
+```bash
+./EstudoDirigido
 ```
