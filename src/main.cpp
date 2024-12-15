@@ -8,7 +8,7 @@ int main() {
     Produto prod3(3, "Fone de Ouvido", 300.00);
 
     // Teste: erros na declaração do produto
-    // Produto invalidProd(-1, "", -10.00);
+    //Produto invalidProd(-1, "", -10.00);
 
     // Adicionando produtos ao catalogo
     Catalogo catalogo;
